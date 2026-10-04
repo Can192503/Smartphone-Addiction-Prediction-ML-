@@ -5,7 +5,7 @@ A machine learning project on Kaggle that predicts smartphone addiction, and its
 Bu repo, [Kaggle Playground Series S6E8](https://www.kaggle.com/competitions/playground-series-s6e8/overview) yarışması kapsamında geliştirilen makine öğrenmesi modelini ve veri analizi süreçlerini içermektedir.
 
 ## 🚀 Proje Hakkında
-Bu yarışmada amaç, [yarışmanın temel veri setindeki ana hedefi/amacı buraya kısaca yazabilirsin, örn: belirli bir tahmini en doğru şekilde yapmak]. Bu projede veriyi ön işleme sokarak, uygun model mimarileriyle tahminler ürettik.
+Bu yarışmada amaç, Akıllı telefon bağımlılığını farklı parametrelere göre tahminini yapmak ve roc skorumuzu belirlemek. Bu projede veriyi ön işleme sokarak, uygun model mimarileriyle tahminler ürettik.
 
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
 * **Python** 
